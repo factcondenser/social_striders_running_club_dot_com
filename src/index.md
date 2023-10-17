@@ -6,7 +6,7 @@ layout: default
 
 # Social Striders Running Club
 
-We’re a social running club aiming to create meaningful connections by uniting people from all walks of life through a shared love of running. We have fun, build friendships and improve ourselves through running, social events and volunteer activities. Join us and make strides with friends!
+We're a social running club aiming to create meaningful connections by uniting people from all walks of life through a shared love of running. We have fun, build friendships and improve ourselves through running, social events and volunteer activities. Join us and make strides with friends!
 
 [![Heylo logo](./images/heylo.png)](https://heylo.group/social-striders)
 [![Meetup logo](./images/meetup.png)](https://www.meetup.com/social-striders-running-club/)
